@@ -15,10 +15,8 @@ This repository serves as the central hub for:
 - **Meeting Minutes** - Project meetings and decisions
 - **Reports** - Progress reports and project status updates
 
-## 📁 Directory Structure
 
-
-📚 Step-by-Step Instruction: Uploading Documentation to the Repository
+## 📚 Step-by-Step Instruction: Uploading Documentation to the Repository
  
 METHOD 1: Using Git Command Line (Recommended for Teams)
 Step 1: Get Access
