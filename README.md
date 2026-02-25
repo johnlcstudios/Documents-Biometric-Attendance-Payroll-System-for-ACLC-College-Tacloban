@@ -18,67 +18,7 @@ This repository serves as the central hub for:
 
 ## 📚 Step-by-Step Instruction: Uploading Documentation to the Repository
 
-METHOD 1: Using Upload Feature (For Ease)
-- you can use the upload feature as long as you create a backup of the file on "BackUP" Folder of this Repo.
- 
-METHOD 2: Using Git Command Line
-Step 1: Get Access
-●	Ensure you have Write access to the repository
-●	If not, ask the repository owner (johnlcstudios) to add you as a collaborator
- 
-Step 2: Clone the Repository
-         
-    git clone https://github.com/johnlcstudios/Documents-Biometric-Attendance-Payroll-System-for-ACLC-College-Tacloban.git    
-         
- 
-Step 3: Navigate to the Repository
-         
-    cd Documents-Biometric-Attendance-Payroll-System-for-ACLC-College-Tacloban    
-         
- 
-Step 4: Create or Add Your Documentation Files
-●	Create new .md (Markdown) files in the appropriate folder
-●	Example structure:
-○	/Requirements/ - For requirement documents
-○	/Design/ - For design documents
-○	/Technical_Specs/ - For technical documentation
-○	/User_Manuals/ - For user guides
-○	/Meeting_Minutes/ - For meeting notes
-○	/Reports/ - For project reports
- 
-Step 5: Stage Your Changes
-         
-    # Stage all files    
-    git add .    
-         
-    # OR stage specific files    
-    git add path/to/your/file.md    
-         
- 
-Step 6: Commit Your Changes
-         
-    git commit -m "Add documentation: Brief description of what you added"    
-         
- 
-Example commit messages:
-         
-    git commit -m "Add Functional Requirements document"    
-    git commit -m "Update Database Design specifications"    
-    git commit -m "Add Admin User Manual"    
-         
- 
-Step 7: Push to Repository
-         
-    git push origin main    
-         
- 
-Step 8: Verify Upload
-●	Visit: https://github.com/johnlcstudios/Documents-Biometric-Attendance-Payroll-System-for-ACLC-College-Tacloban
-●	Check if your file appears in the correct folder
- 
-
- 
-METHOD 2: Using GitHub Web Interface (Easiest for Beginners)
+METHOD 1: Using GitHub Web Interface (Easiest for Beginners)
 Step 1: Open the Repository
 Go to: https://github.com/johnlcstudios/Documents-Biometric-Attendance-Payroll-System-for-ACLC-College-Tacloban
  
