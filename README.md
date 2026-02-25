@@ -17,8 +17,11 @@ This repository serves as the central hub for:
 
 
 ## 📚 Step-by-Step Instruction: Uploading Documentation to the Repository
+
+METHOD 1: Using Upload Feature (For Ease)
+- you can use the upload feature as long as you create a backup of the file on "BackUP" Folder of this Repo.
  
-METHOD 1: Using Git Command Line (Recommended for Teams)
+METHOD 2: Using Git Command Line
 Step 1: Get Access
 ●	Ensure you have Write access to the repository
 ●	If not, ask the repository owner (johnlcstudios) to add you as a collaborator
